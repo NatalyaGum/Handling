@@ -1,7 +1,7 @@
 package by.epam.task4.entity;
 
 import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.core.Logger;
+import org.apache.logging.log4j.Logger;
 
 public class Symbol implements TextComponent{
     static Logger logger = LogManager.getLogger();
@@ -15,12 +15,12 @@ public class Symbol implements TextComponent{
 
     @Override
     public void add(TextComponent component) {
-
+        logger.info("Unsupported operation");
 
     }
 
     @Override
     public void remove(TextComponent component) {
-
+        logger.info("Unsupported operation");
     }
 }

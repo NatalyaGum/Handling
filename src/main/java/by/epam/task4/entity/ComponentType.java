@@ -1,7 +1,7 @@
 package by.epam.task4.entity;
 
 public enum ComponentType {
-    TEXT("\n"),
+    TEXT("\n\t"),
     PARAGRAPH(" "),
     SENTENCE(" "),
     LEXEME(" "),
