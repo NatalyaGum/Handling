@@ -1,15 +1,15 @@
-package by.epam.task4.parser;
+package by.epam.task4.parser.impl;
 
 import by.epam.task4.entity.ComponentType;
 import by.epam.task4.entity.TextComponent;
 import by.epam.task4.entity.TextComposite;
+import by.epam.task4.parser.TextParser;
+import by.epam.task4.parser.impl.SentenceParser;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.Arrays;
 
-
-public class ParagraphParser implements TextParser{
+public class ParagraphParser implements TextParser {
     static Logger logger = LogManager.getLogger();
 
     private static final String PARAGRAPH_REGEX = "[\\n\\t]+";

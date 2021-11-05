@@ -2,7 +2,7 @@ package by.epam.task4.main;
 
 import by.epam.task4.entity.TextComposite;
 import by.epam.task4.exception.HandlingException;
-import by.epam.task4.parser.*;
+import by.epam.task4.parser.impl.ParagraphParser;
 import by.epam.task4.reader.impl.TextReaderImpl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
