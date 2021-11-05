@@ -1,0 +1,13 @@
+2021-11-04 18:05:03 [main] [readText] [29] ERROR epam.task4.reader.impl.TextReaderImpl - main/resources/text.txt I/O error 
+java.nio.file.NoSuchFileException: main\resources\text.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3288) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3366) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3325) ~[?:?]
+	at by.epam.task4.reader.impl.TextReaderImpl.readText(TextReaderImpl.java:22) [classes/:?]
+	at by.epam.task4.main.Main.main(Main.java:10) [classes/:?]

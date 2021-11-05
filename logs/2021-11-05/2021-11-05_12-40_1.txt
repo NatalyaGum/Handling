@@ -1,0 +1,66 @@
+2021-11-05 12:40:47 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Вера Инбер.
+Вера Инбер. Такой туман упал вчера...
+2021-11-05 12:40:47 [main] [main] [30] INFO  by.epam.task4.main.Main - PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@7bab3f1a
+SYMBOL, by.epam.task4.entity.Symbol@437da279
+SYMBOL, by.epam.task4.entity.Symbol@23c30a20
+SYMBOL, by.epam.task4.entity.Symbol@1e1a0406
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@3cebbb30
+SYMBOL, by.epam.task4.entity.Symbol@12aba8be
+SYMBOL, by.epam.task4.entity.Symbol@290222c1
+SYMBOL, by.epam.task4.entity.Symbol@67f639d3
+SYMBOL, by.epam.task4.entity.Symbol@6253c26
+
+WORD, by.epam.task4.entity.Symbol@49049a04
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@71a8adcf
+SYMBOL, by.epam.task4.entity.Symbol@27462a88
+SYMBOL, by.epam.task4.entity.Symbol@82de64a
+SYMBOL, by.epam.task4.entity.Symbol@659499f1
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@51e69659
+SYMBOL, by.epam.task4.entity.Symbol@47e2e487
+SYMBOL, by.epam.task4.entity.Symbol@201a4587
+SYMBOL, by.epam.task4.entity.Symbol@61001b64
+SYMBOL, by.epam.task4.entity.Symbol@4310d43
+
+WORD, by.epam.task4.entity.Symbol@54a7079e
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@26e356f0
+SYMBOL, by.epam.task4.entity.Symbol@47d9a273
+SYMBOL, by.epam.task4.entity.Symbol@4b8ee4de
+SYMBOL, by.epam.task4.entity.Symbol@27f981c6
+SYMBOL, by.epam.task4.entity.Symbol@1b11171f
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@1151e434
+SYMBOL, by.epam.task4.entity.Symbol@2dc54ad4
+SYMBOL, by.epam.task4.entity.Symbol@4659191b
+SYMBOL, by.epam.task4.entity.Symbol@55634720
+SYMBOL, by.epam.task4.entity.Symbol@4b0d79fc
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@4c1909a3
+SYMBOL, by.epam.task4.entity.Symbol@428640fa
+SYMBOL, by.epam.task4.entity.Symbol@d9345cd
+SYMBOL, by.epam.task4.entity.Symbol@2d710f1a
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@29215f06
+SYMBOL, by.epam.task4.entity.Symbol@59505b48
+SYMBOL, by.epam.task4.entity.Symbol@4efac082
+SYMBOL, by.epam.task4.entity.Symbol@6bd61f98
+SYMBOL, by.epam.task4.entity.Symbol@48aca48b
+
+WORD, by.epam.task4.entity.Symbol@13fd2ccd
+WORD, by.epam.task4.entity.Symbol@b9b00e0
+WORD, by.epam.task4.entity.Symbol@506ae4d4
+ 
+
+ 
+

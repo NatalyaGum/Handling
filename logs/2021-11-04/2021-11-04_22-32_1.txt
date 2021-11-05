@@ -1,0 +1,1 @@
+2021-11-04 22:32:12 [main] [parse] [21] INFO  by.epam.task4.parser.impl.ParagraphParser - paragraphs[Вера Инбер.,     Вера Инбер. Такой туман упал вчера., ]

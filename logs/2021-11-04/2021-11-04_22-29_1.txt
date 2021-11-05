@@ -1,0 +1,5 @@
+2021-11-04 22:29:50 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Вера Инбер.
+    Вера Инбер. Такой туман упал вчера.
+
+
