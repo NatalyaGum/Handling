@@ -1,5 +1,6 @@
 package by.epam.task4.entity;
 
+import by.epam.task4.exception.HandlingException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -14,13 +15,14 @@ public class Symbol implements TextComponent{
     };
 
     @Override
-    public void add(TextComponent component) {
-        logger.info("Unsupported operation");
-
+    public void add(TextComponent component) throws HandlingException {
+        logger.info("Unsupported operation add symbol");
+        throw new HandlingException("Unsupported operation add symbol");
     }
 
     @Override
-    public void remove(TextComponent component) {
-        logger.info("Unsupported operation");
+    public void remove(TextComponent component) throws HandlingException {
+        logger.info("Unsupported operation remove symbol");
+        throw new HandlingException("Unsupported operation remove symbol");
     }
 }
