@@ -12,25 +12,25 @@ import java.util.regex.Pattern;
 
 public class WordParser implements TextParser {
 
-    private final String WORD_DELIMITER_REGEX = "[А-я\\w]+";
+    //private final String WORD_DELIMITER_REGEX = "[А-я\\p{Alpha}]+";
     private final TextParser symbolParser = new SymbolParser();
 
     @Override
     public TextComposite parse(String data) {
 
         TextComposite wordComposite = new TextComposite(ComponentType.WORD);
-        Pattern pattern = Pattern.compile(WORD_DELIMITER_REGEX);
-        Matcher matcher = pattern.matcher(data);
+       // Pattern pattern = Pattern.compile(WORD_DELIMITER_REGEX);
+// matcher = pattern.matcher(data);
         List<String> symbols= new ArrayList<>();
 
-        while (matcher.find()){
+       /* while (matcher.find()){
             symbols.add(matcher.group());
               }
 
-        for (String symbol: symbols) {
-            TextComposite nextComposite = symbolParser.parse(symbol);
+        for (String symbol: symbols) {*/
+            TextComposite nextComposite = symbolParser.parse(data);
             wordComposite.add(nextComposite);
-                  }
+
         return wordComposite;
     }
 }

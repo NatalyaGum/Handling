@@ -14,11 +14,10 @@ public class SymbolParser implements TextParser {
     public TextComposite parse(String text) {
         TextComposite symbolComposite = new TextComposite(ComponentType.SYMBOL);
         char[] symbols = text.toCharArray();
-        logger.info(text);
-        for (char symbol : symbols) {
+          for (char symbol : symbols) {
             Symbol leaf = new Symbol(symbol);
             symbolComposite.add(leaf);
-           logger.info(leaf);
+           // logger.info(leaf);
         }
         return symbolComposite;
     }
