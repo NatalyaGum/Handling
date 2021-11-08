@@ -1,0 +1,1190 @@
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - fact
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - that
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - reader
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - will
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - be
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - page
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - when
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - looking
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - at
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - its
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - layout
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Bye
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [main] [30] INFO  by.epam.task4.main.Main - PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+ 
+LEXEME, SYMBOL, null
+ 
+
+ 
+

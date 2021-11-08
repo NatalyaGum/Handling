@@ -1,0 +1,24 @@
+2021-11-07 17:46:18 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.Service -  word: SYMBOL, p
+SYMBOL, o
+SYMBOL, p
+SYMBOL, u
+SYMBOL, l
+SYMBOL, a
+SYMBOL, r
+SYMBOL, i
+SYMBOL, s
+SYMBOL, e
+SYMBOL, d
+
+2021-11-07 17:46:18 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.Service -  word: SYMBOL, e
+SYMBOL, s
+SYMBOL, t
+SYMBOL, a
+SYMBOL, b
+SYMBOL, l
+SYMBOL, i
+SYMBOL, s
+SYMBOL, h
+SYMBOL, e
+SYMBOL, d
+

@@ -59,13 +59,11 @@ public class Service {
                             maxLength = word.size();
                             sentencesWithWord.clear();
                             sentencesWithWord.add(sentence);
-                            }/* else if (word.size() == maxLength && !sentencesWithWord.contains(sentence)) {
-                                sentencesWithWord.add(sentence);*/
-                              //  logger.info(" maxLength: " + maxLength);
-                            }
                         }
                     }
                 }
+            }
+        }
         logger.info("Sentences with the longest word: " + sentencesWithWord);
         return sentencesWithWord;
     }
@@ -73,12 +71,6 @@ public class Service {
     //@Override
     public void deleteSentencesWithLessWords(TextComposite composite, int wordsAmount)  {
 
-      /*  return   composite.getList().stream()
-                    .flatMap(p -> p.getList().stream())
-                    .toList().stream()
-                    .filter(s -> s.getList().stream()
-                            .filter(l -> l.getType().equals(ComponentType.WORD)).count() >= minAmount).toList();}
-*/
 
         List<TextComponent> sentencesAfterRemoving = new ArrayList<>();
         List<TextComponent> sentences=null;

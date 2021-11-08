@@ -1,0 +1,796 @@
+2021-11-05 22:02:25 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Вера Инбер. Такой туман упал вчера...
+Такой туман упал вчера,так волноваться море стало, как будто осени пора по-настоящему настала.
+А нынче свет и тишина, листва медлительно желтеет, и солнце нежно, как луна, над садом светит, но не греет.
+Так иногда для, бедных, нас в болезни, видимо опасной, вдруг наступает тихий час, неподражаемо прекрасный.
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Вера
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3cebbb30
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@12aba8be
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@290222c1
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@67f639d3
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Инбер
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6253c26
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@49049a04
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@71a8adcf
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@27462a88
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@82de64a
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@659499f1
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Такой
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@51e69659
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@47e2e487
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@201a4587
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@61001b64
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4310d43
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - туман
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@54a7079e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@26e356f0
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@47d9a273
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b8ee4de
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@27f981c6
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - упал
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1b11171f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1151e434
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2dc54ad4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4659191b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - вчера
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@55634720
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b0d79fc
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4c1909a3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@428640fa
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@d9345cd
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ...
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2d710f1a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@29215f06
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@59505b48
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Такой
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4efac082
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6bd61f98
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@48aca48b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@13fd2ccd
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@b9b00e0
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - туман
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@506ae4d4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7d4f9aae
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@72e5a8e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@54e1c68b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@53aac487
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - упал
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@52b1beb6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@273e7444
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7db12bb6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@783a467b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - вчера
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@272113c4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@73e9cf30
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@771a660
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2d52216b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@242b836
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - так
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3f6f6701
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3527942a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@942a29c
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - волноваться
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1ed6388a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5a45133e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@534a5a98
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4f80542f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@60bd273d
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@121314f7
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@130c12b7
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5e600dd5
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@576d5deb
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5d534f5d
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2e3967ea
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - море
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@70e9c95d
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4d5650ae
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@a38c7fe
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6fdbe764
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - стало
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@51c668e3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2e6a8155
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6221a451
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@52719fb6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3012646b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4a883b15
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - как
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@25641d39
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7b36aa0c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5824a83d
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - будто
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@537f60bf
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5677323c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@18df8434
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@65c7a252
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4d154ccd
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - осени
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@229c6181
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4686afc2
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1e0b4072
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@791f145a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@38cee291
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - пора
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b45a2f5
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@f09733f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@e350b40
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@41a0aa7d
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - по
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2794eab6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6340e5f0
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - настоящему
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@45099dd3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@13e344d
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1ffaf86
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6574a52c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6c1a5b54
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1c7696c6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@60099951
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@20140db9
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1e6a3214
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@368247b9
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - настала
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1a6d8329
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1a942c18
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@55a147cc
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@71ba6d4e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@738dc9b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3c77d488
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@63376bed
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4145bad8
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - А
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@d86a6f
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - нынче
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2892d68
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5ab956d7
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3646a422
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@750e2b97
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3e27aa33
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - свет
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2e385cce
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2ddc9a9f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@298a5e20
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2a7f1f10
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - и
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@46cdf8bd
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - тишина
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@f0c8a99
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@740cae06
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@26d9b808
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@f78a47e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@644baf4a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7526515b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1ed4ae0f
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - листва
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@54c5a2ff
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6d4d66d2
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2a265ea9
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@11392934
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6892b3b6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6e6f2380
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - медлительно
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@76a4ebf2
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2e8c1c9b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@53fe15ff
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@449a4f23
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1530c739
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5b1669c0
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@78e4deb0
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6e9175d8
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7d0b7e3c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@15bb5034
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b741d6d
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - желтеет
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2eae8e6e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@8f2ef19
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@470734c3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2cf3d63b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7674f035
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@69e153c5
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@173ed316
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@25ce9dc4
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - и
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@74ea2410
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - солнце
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@17f62e33
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@76b1e9b8
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@27406a17
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2af004b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@248e319b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5d0bf09b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - нежно
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@793f29ff
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3e8c3cb
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@563f38c4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@543295b0
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@54422e18
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@117159c0
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - как
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3e27ba32
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7ef82753
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3b0fe47a
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - луна
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@202b0582
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@235ecd9f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1ca3b418
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@58cbafc2
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2034b64c
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - над
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@75d3a5e0
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@74d1dc36
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7161d8d1
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - садом
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@74e28667
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1cf6d1be
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@663c9e7a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@19e4653c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@795509d9
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - светит
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@53045c6c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5149d738
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6bbe85a8
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3a7442c7
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4be29ed9
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@548d708a
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b013c76
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - но
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@53fb3dab
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@cb0755b
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - не
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@33065d67
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@712625fd
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - греет
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7bba5817
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@742ff096
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@75437611
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@350aac89
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1c5920df
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@17f9d882
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Так
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@79e4c792
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@196a42c3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4c60d6e9
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - иногда
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@15043a2f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4a83a74a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1349883
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4b29d1d2
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7f485fda
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@28261e8e
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - для
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@d737b89
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@8519cb4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@35dab4eb
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2d901eb0
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - бедных
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3ba987b8
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3f191845
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5f049ea1
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@72cc7e6f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5afa3c9
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@72035809
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@909217e
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - нас
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@18271936
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@606e4010
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@8458f04
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - в
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@48075da3
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - болезни
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@68c9133c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7a35b0f5
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5e2c3d18
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2cb4893b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@cc43f62
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5b218417
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@645aa696
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6caf0677
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - видимо
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@413d1baf
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@16eb3ea3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@273444fe
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@33bc72d1
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1a75e76a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5524cca1
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - опасной
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5032714f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@48bb62
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@353352b6
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4681c175
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@57a78e3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@402c4085
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6fa51cd4
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2767e23c
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - вдруг
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@710c2b53
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5386659f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@14028087
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@cecf639
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1caa0244
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - наступает
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7ce026d3
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7ce69770
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1750fbeb
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5b247367
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@268f106e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6e9a5ed8
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7e057f43
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6c284af
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5890e879
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - тихий
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6440112d
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@31ea9581
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@231f98ef
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7c137fd5
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@183ec003
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - час
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7d9d0818
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@221a3fa4
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@451001e5
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2b40ff9c
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - неподражаемо
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3e08ff24
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4d1c005e
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@8462f31
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@24569dba
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@5ddeb7cb
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@70ed52de
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@496bc455
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@59402b8f
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7188af83
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6be968ce
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@7c37508a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@247310d0
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - прекрасный
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@1033576a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@303cf2ba
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@76494737
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4a003cbe
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@4082ba93
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@17fc391b
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@2b30a42c
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@609e8838
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@359df09a
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@43df23d3
+2021-11-05 22:02:25 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-05 22:02:25 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@6d60fe40
+2021-11-05 22:02:25 [main] [main] [30] INFO  by.epam.task4.main.Main - PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@3cebbb30
+SYMBOL, by.epam.task4.entity.Symbol@12aba8be
+SYMBOL, by.epam.task4.entity.Symbol@290222c1
+SYMBOL, by.epam.task4.entity.Symbol@67f639d3
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@6253c26
+SYMBOL, by.epam.task4.entity.Symbol@49049a04
+SYMBOL, by.epam.task4.entity.Symbol@71a8adcf
+SYMBOL, by.epam.task4.entity.Symbol@27462a88
+SYMBOL, by.epam.task4.entity.Symbol@82de64a
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@659499f1
+ 
+
+SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@51e69659
+SYMBOL, by.epam.task4.entity.Symbol@47e2e487
+SYMBOL, by.epam.task4.entity.Symbol@201a4587
+SYMBOL, by.epam.task4.entity.Symbol@61001b64
+SYMBOL, by.epam.task4.entity.Symbol@4310d43
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@54a7079e
+SYMBOL, by.epam.task4.entity.Symbol@26e356f0
+SYMBOL, by.epam.task4.entity.Symbol@47d9a273
+SYMBOL, by.epam.task4.entity.Symbol@4b8ee4de
+SYMBOL, by.epam.task4.entity.Symbol@27f981c6
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@1b11171f
+SYMBOL, by.epam.task4.entity.Symbol@1151e434
+SYMBOL, by.epam.task4.entity.Symbol@2dc54ad4
+SYMBOL, by.epam.task4.entity.Symbol@4659191b
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@55634720
+SYMBOL, by.epam.task4.entity.Symbol@4b0d79fc
+SYMBOL, by.epam.task4.entity.Symbol@4c1909a3
+SYMBOL, by.epam.task4.entity.Symbol@428640fa
+SYMBOL, by.epam.task4.entity.Symbol@d9345cd
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@2d710f1a
+SYMBOL, by.epam.task4.entity.Symbol@29215f06
+SYMBOL, by.epam.task4.entity.Symbol@59505b48
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@4efac082
+SYMBOL, by.epam.task4.entity.Symbol@6bd61f98
+SYMBOL, by.epam.task4.entity.Symbol@48aca48b
+SYMBOL, by.epam.task4.entity.Symbol@13fd2ccd
+SYMBOL, by.epam.task4.entity.Symbol@b9b00e0
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@506ae4d4
+SYMBOL, by.epam.task4.entity.Symbol@7d4f9aae
+SYMBOL, by.epam.task4.entity.Symbol@72e5a8e
+SYMBOL, by.epam.task4.entity.Symbol@54e1c68b
+SYMBOL, by.epam.task4.entity.Symbol@53aac487
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@52b1beb6
+SYMBOL, by.epam.task4.entity.Symbol@273e7444
+SYMBOL, by.epam.task4.entity.Symbol@7db12bb6
+SYMBOL, by.epam.task4.entity.Symbol@783a467b
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@272113c4
+SYMBOL, by.epam.task4.entity.Symbol@73e9cf30
+SYMBOL, by.epam.task4.entity.Symbol@771a660
+SYMBOL, by.epam.task4.entity.Symbol@2d52216b
+SYMBOL, by.epam.task4.entity.Symbol@242b836
+
+WORD, SYMBOL, by.epam.task4.entity.Symbol@3f6f6701
+SYMBOL, by.epam.task4.entity.Symbol@3527942a
+SYMBOL, by.epam.task4.entity.Symbol@942a29c
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@1ed6388a
+SYMBOL, by.epam.task4.entity.Symbol@5a45133e
+SYMBOL, by.epam.task4.entity.Symbol@534a5a98
+SYMBOL, by.epam.task4.entity.Symbol@4f80542f
+SYMBOL, by.epam.task4.entity.Symbol@60bd273d
+SYMBOL, by.epam.task4.entity.Symbol@121314f7
+SYMBOL, by.epam.task4.entity.Symbol@130c12b7
+SYMBOL, by.epam.task4.entity.Symbol@5e600dd5
+SYMBOL, by.epam.task4.entity.Symbol@576d5deb
+SYMBOL, by.epam.task4.entity.Symbol@5d534f5d
+SYMBOL, by.epam.task4.entity.Symbol@2e3967ea
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@70e9c95d
+SYMBOL, by.epam.task4.entity.Symbol@4d5650ae
+SYMBOL, by.epam.task4.entity.Symbol@a38c7fe
+SYMBOL, by.epam.task4.entity.Symbol@6fdbe764
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@51c668e3
+SYMBOL, by.epam.task4.entity.Symbol@2e6a8155
+SYMBOL, by.epam.task4.entity.Symbol@6221a451
+SYMBOL, by.epam.task4.entity.Symbol@52719fb6
+SYMBOL, by.epam.task4.entity.Symbol@3012646b
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@4a883b15
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@25641d39
+SYMBOL, by.epam.task4.entity.Symbol@7b36aa0c
+SYMBOL, by.epam.task4.entity.Symbol@5824a83d
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@537f60bf
+SYMBOL, by.epam.task4.entity.Symbol@5677323c
+SYMBOL, by.epam.task4.entity.Symbol@18df8434
+SYMBOL, by.epam.task4.entity.Symbol@65c7a252
+SYMBOL, by.epam.task4.entity.Symbol@4d154ccd
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@229c6181
+SYMBOL, by.epam.task4.entity.Symbol@4686afc2
+SYMBOL, by.epam.task4.entity.Symbol@1e0b4072
+SYMBOL, by.epam.task4.entity.Symbol@791f145a
+SYMBOL, by.epam.task4.entity.Symbol@38cee291
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@4b45a2f5
+SYMBOL, by.epam.task4.entity.Symbol@f09733f
+SYMBOL, by.epam.task4.entity.Symbol@e350b40
+SYMBOL, by.epam.task4.entity.Symbol@41a0aa7d
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@2794eab6
+SYMBOL, by.epam.task4.entity.Symbol@6340e5f0
+
+WORD, SYMBOL, by.epam.task4.entity.Symbol@45099dd3
+SYMBOL, by.epam.task4.entity.Symbol@13e344d
+SYMBOL, by.epam.task4.entity.Symbol@1ffaf86
+SYMBOL, by.epam.task4.entity.Symbol@6574a52c
+SYMBOL, by.epam.task4.entity.Symbol@6c1a5b54
+SYMBOL, by.epam.task4.entity.Symbol@1c7696c6
+SYMBOL, by.epam.task4.entity.Symbol@60099951
+SYMBOL, by.epam.task4.entity.Symbol@20140db9
+SYMBOL, by.epam.task4.entity.Symbol@1e6a3214
+SYMBOL, by.epam.task4.entity.Symbol@368247b9
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@1a6d8329
+SYMBOL, by.epam.task4.entity.Symbol@1a942c18
+SYMBOL, by.epam.task4.entity.Symbol@55a147cc
+SYMBOL, by.epam.task4.entity.Symbol@71ba6d4e
+SYMBOL, by.epam.task4.entity.Symbol@738dc9b
+SYMBOL, by.epam.task4.entity.Symbol@3c77d488
+SYMBOL, by.epam.task4.entity.Symbol@63376bed
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@4145bad8
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@d86a6f
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@2892d68
+SYMBOL, by.epam.task4.entity.Symbol@5ab956d7
+SYMBOL, by.epam.task4.entity.Symbol@3646a422
+SYMBOL, by.epam.task4.entity.Symbol@750e2b97
+SYMBOL, by.epam.task4.entity.Symbol@3e27aa33
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@2e385cce
+SYMBOL, by.epam.task4.entity.Symbol@2ddc9a9f
+SYMBOL, by.epam.task4.entity.Symbol@298a5e20
+SYMBOL, by.epam.task4.entity.Symbol@2a7f1f10
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@46cdf8bd
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@f0c8a99
+SYMBOL, by.epam.task4.entity.Symbol@740cae06
+SYMBOL, by.epam.task4.entity.Symbol@26d9b808
+SYMBOL, by.epam.task4.entity.Symbol@f78a47e
+SYMBOL, by.epam.task4.entity.Symbol@644baf4a
+SYMBOL, by.epam.task4.entity.Symbol@7526515b
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@1ed4ae0f
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@54c5a2ff
+SYMBOL, by.epam.task4.entity.Symbol@6d4d66d2
+SYMBOL, by.epam.task4.entity.Symbol@2a265ea9
+SYMBOL, by.epam.task4.entity.Symbol@11392934
+SYMBOL, by.epam.task4.entity.Symbol@6892b3b6
+SYMBOL, by.epam.task4.entity.Symbol@6e6f2380
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@76a4ebf2
+SYMBOL, by.epam.task4.entity.Symbol@2e8c1c9b
+SYMBOL, by.epam.task4.entity.Symbol@53fe15ff
+SYMBOL, by.epam.task4.entity.Symbol@449a4f23
+SYMBOL, by.epam.task4.entity.Symbol@1530c739
+SYMBOL, by.epam.task4.entity.Symbol@5b1669c0
+SYMBOL, by.epam.task4.entity.Symbol@78e4deb0
+SYMBOL, by.epam.task4.entity.Symbol@6e9175d8
+SYMBOL, by.epam.task4.entity.Symbol@7d0b7e3c
+SYMBOL, by.epam.task4.entity.Symbol@15bb5034
+SYMBOL, by.epam.task4.entity.Symbol@4b741d6d
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@2eae8e6e
+SYMBOL, by.epam.task4.entity.Symbol@8f2ef19
+SYMBOL, by.epam.task4.entity.Symbol@470734c3
+SYMBOL, by.epam.task4.entity.Symbol@2cf3d63b
+SYMBOL, by.epam.task4.entity.Symbol@7674f035
+SYMBOL, by.epam.task4.entity.Symbol@69e153c5
+SYMBOL, by.epam.task4.entity.Symbol@173ed316
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@25ce9dc4
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@74ea2410
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@17f62e33
+SYMBOL, by.epam.task4.entity.Symbol@76b1e9b8
+SYMBOL, by.epam.task4.entity.Symbol@27406a17
+SYMBOL, by.epam.task4.entity.Symbol@2af004b
+SYMBOL, by.epam.task4.entity.Symbol@248e319b
+SYMBOL, by.epam.task4.entity.Symbol@5d0bf09b
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@793f29ff
+SYMBOL, by.epam.task4.entity.Symbol@3e8c3cb
+SYMBOL, by.epam.task4.entity.Symbol@563f38c4
+SYMBOL, by.epam.task4.entity.Symbol@543295b0
+SYMBOL, by.epam.task4.entity.Symbol@54422e18
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@117159c0
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@3e27ba32
+SYMBOL, by.epam.task4.entity.Symbol@7ef82753
+SYMBOL, by.epam.task4.entity.Symbol@3b0fe47a
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@202b0582
+SYMBOL, by.epam.task4.entity.Symbol@235ecd9f
+SYMBOL, by.epam.task4.entity.Symbol@1ca3b418
+SYMBOL, by.epam.task4.entity.Symbol@58cbafc2
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@2034b64c
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@75d3a5e0
+SYMBOL, by.epam.task4.entity.Symbol@74d1dc36
+SYMBOL, by.epam.task4.entity.Symbol@7161d8d1
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@74e28667
+SYMBOL, by.epam.task4.entity.Symbol@1cf6d1be
+SYMBOL, by.epam.task4.entity.Symbol@663c9e7a
+SYMBOL, by.epam.task4.entity.Symbol@19e4653c
+SYMBOL, by.epam.task4.entity.Symbol@795509d9
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@53045c6c
+SYMBOL, by.epam.task4.entity.Symbol@5149d738
+SYMBOL, by.epam.task4.entity.Symbol@6bbe85a8
+SYMBOL, by.epam.task4.entity.Symbol@3a7442c7
+SYMBOL, by.epam.task4.entity.Symbol@4be29ed9
+SYMBOL, by.epam.task4.entity.Symbol@548d708a
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@4b013c76
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@53fb3dab
+SYMBOL, by.epam.task4.entity.Symbol@cb0755b
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@33065d67
+SYMBOL, by.epam.task4.entity.Symbol@712625fd
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@7bba5817
+SYMBOL, by.epam.task4.entity.Symbol@742ff096
+SYMBOL, by.epam.task4.entity.Symbol@75437611
+SYMBOL, by.epam.task4.entity.Symbol@350aac89
+SYMBOL, by.epam.task4.entity.Symbol@1c5920df
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@17f9d882
+ 
+
+ 
+PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@79e4c792
+SYMBOL, by.epam.task4.entity.Symbol@196a42c3
+SYMBOL, by.epam.task4.entity.Symbol@4c60d6e9
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@15043a2f
+SYMBOL, by.epam.task4.entity.Symbol@4a83a74a
+SYMBOL, by.epam.task4.entity.Symbol@1349883
+SYMBOL, by.epam.task4.entity.Symbol@4b29d1d2
+SYMBOL, by.epam.task4.entity.Symbol@7f485fda
+SYMBOL, by.epam.task4.entity.Symbol@28261e8e
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@d737b89
+SYMBOL, by.epam.task4.entity.Symbol@8519cb4
+SYMBOL, by.epam.task4.entity.Symbol@35dab4eb
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@2d901eb0
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@3ba987b8
+SYMBOL, by.epam.task4.entity.Symbol@3f191845
+SYMBOL, by.epam.task4.entity.Symbol@5f049ea1
+SYMBOL, by.epam.task4.entity.Symbol@72cc7e6f
+SYMBOL, by.epam.task4.entity.Symbol@5afa3c9
+SYMBOL, by.epam.task4.entity.Symbol@72035809
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@909217e
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@18271936
+SYMBOL, by.epam.task4.entity.Symbol@606e4010
+SYMBOL, by.epam.task4.entity.Symbol@8458f04
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@48075da3
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@68c9133c
+SYMBOL, by.epam.task4.entity.Symbol@7a35b0f5
+SYMBOL, by.epam.task4.entity.Symbol@5e2c3d18
+SYMBOL, by.epam.task4.entity.Symbol@2cb4893b
+SYMBOL, by.epam.task4.entity.Symbol@cc43f62
+SYMBOL, by.epam.task4.entity.Symbol@5b218417
+SYMBOL, by.epam.task4.entity.Symbol@645aa696
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@6caf0677
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@413d1baf
+SYMBOL, by.epam.task4.entity.Symbol@16eb3ea3
+SYMBOL, by.epam.task4.entity.Symbol@273444fe
+SYMBOL, by.epam.task4.entity.Symbol@33bc72d1
+SYMBOL, by.epam.task4.entity.Symbol@1a75e76a
+SYMBOL, by.epam.task4.entity.Symbol@5524cca1
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@5032714f
+SYMBOL, by.epam.task4.entity.Symbol@48bb62
+SYMBOL, by.epam.task4.entity.Symbol@353352b6
+SYMBOL, by.epam.task4.entity.Symbol@4681c175
+SYMBOL, by.epam.task4.entity.Symbol@57a78e3
+SYMBOL, by.epam.task4.entity.Symbol@402c4085
+SYMBOL, by.epam.task4.entity.Symbol@6fa51cd4
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@2767e23c
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@710c2b53
+SYMBOL, by.epam.task4.entity.Symbol@5386659f
+SYMBOL, by.epam.task4.entity.Symbol@14028087
+SYMBOL, by.epam.task4.entity.Symbol@cecf639
+SYMBOL, by.epam.task4.entity.Symbol@1caa0244
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@7ce026d3
+SYMBOL, by.epam.task4.entity.Symbol@7ce69770
+SYMBOL, by.epam.task4.entity.Symbol@1750fbeb
+SYMBOL, by.epam.task4.entity.Symbol@5b247367
+SYMBOL, by.epam.task4.entity.Symbol@268f106e
+SYMBOL, by.epam.task4.entity.Symbol@6e9a5ed8
+SYMBOL, by.epam.task4.entity.Symbol@7e057f43
+SYMBOL, by.epam.task4.entity.Symbol@6c284af
+SYMBOL, by.epam.task4.entity.Symbol@5890e879
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@6440112d
+SYMBOL, by.epam.task4.entity.Symbol@31ea9581
+SYMBOL, by.epam.task4.entity.Symbol@231f98ef
+SYMBOL, by.epam.task4.entity.Symbol@7c137fd5
+SYMBOL, by.epam.task4.entity.Symbol@183ec003
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@7d9d0818
+SYMBOL, by.epam.task4.entity.Symbol@221a3fa4
+SYMBOL, by.epam.task4.entity.Symbol@451001e5
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@2b40ff9c
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@3e08ff24
+SYMBOL, by.epam.task4.entity.Symbol@4d1c005e
+SYMBOL, by.epam.task4.entity.Symbol@8462f31
+SYMBOL, by.epam.task4.entity.Symbol@24569dba
+SYMBOL, by.epam.task4.entity.Symbol@5ddeb7cb
+SYMBOL, by.epam.task4.entity.Symbol@70ed52de
+SYMBOL, by.epam.task4.entity.Symbol@496bc455
+SYMBOL, by.epam.task4.entity.Symbol@59402b8f
+SYMBOL, by.epam.task4.entity.Symbol@7188af83
+SYMBOL, by.epam.task4.entity.Symbol@6be968ce
+SYMBOL, by.epam.task4.entity.Symbol@7c37508a
+SYMBOL, by.epam.task4.entity.Symbol@247310d0
+
+ 
+LEXEME, WORD, SYMBOL, by.epam.task4.entity.Symbol@1033576a
+SYMBOL, by.epam.task4.entity.Symbol@303cf2ba
+SYMBOL, by.epam.task4.entity.Symbol@76494737
+SYMBOL, by.epam.task4.entity.Symbol@4a003cbe
+SYMBOL, by.epam.task4.entity.Symbol@4082ba93
+SYMBOL, by.epam.task4.entity.Symbol@17fc391b
+SYMBOL, by.epam.task4.entity.Symbol@2b30a42c
+SYMBOL, by.epam.task4.entity.Symbol@609e8838
+SYMBOL, by.epam.task4.entity.Symbol@359df09a
+SYMBOL, by.epam.task4.entity.Symbol@43df23d3
+
+ 
+LEXEME, SYMBOL, by.epam.task4.entity.Symbol@6d60fe40
+ 
+
+ 
+

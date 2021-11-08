@@ -1,0 +1,1665 @@
+2021-11-06 19:01:45 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+It has survived - not only (five) centuries, but also the leap into 13<<2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged. It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more or less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout.
+Bye.
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - It
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - has
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - survived
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - -
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [54] INFO  epam.task4.parser.impl.LexemeParser - preCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - not
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - only
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - (
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [54] INFO  epam.task4.parser.impl.LexemeParser - preCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - five
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - )
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - centuries
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - but
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - also
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - the
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - leap
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - into
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[13<<2]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл13<<2
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 13<<2
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - electronic
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - typesetting
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - remaining
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[3>>5]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл3>>5
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 3>>5
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - essentially
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[~6&9|(3&4)]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл~6&9|(3&4)
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ~6&9|(3&4)
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - unchanged
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - It
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - was
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - popularised
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - in
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - the
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1)]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1)
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1)
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - with
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - the
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - release
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Letraset
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - sheets
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - containing
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Lorem
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Ipsum
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - passages
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - and
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - more
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - recently
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - with
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - desktop
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - publishing
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - software
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - like
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Aldus
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - PageMaker
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - including
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - versions
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Lorem
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Ipsum
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - It
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - is
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - long
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - established
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - fact
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - that
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - reader
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - will
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - be
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - distracted
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - by
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - the
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - readable
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - content
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - page
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - when
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - looking
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - at
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - its
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - layout
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - The
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - point
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - using
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[(~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл(~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - (
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [54] INFO  epam.task4.parser.impl.LexemeParser - preCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Ipsum
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - is
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - that
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - it
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - has
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - more
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - or
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - less
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - normal
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - distribution
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - of
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - letters
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - as
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - opposed
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - to
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - using
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - (
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [54] INFO  epam.task4.parser.impl.LexemeParser - preCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - Content
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - here
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - content
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - here
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - ,
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - making
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - it
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - look
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - like
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - readable
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - English
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - .
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [78] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, null
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - It
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - is
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - a
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, null
+
+
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[(7^5|1&2<<(2|5>>2&71))|1200]
+2021-11-06 19:01:45 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл(7^5|1&2<<(2|5>>2&71))|1200
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - (7^5|1&2<<(2|5>>2&71))|1200
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
+2021-11-06 19:01:45 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - established
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null
+2021-11-06 19:01:45 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - null

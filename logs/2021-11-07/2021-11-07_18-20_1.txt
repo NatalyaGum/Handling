@@ -1,0 +1,1 @@
+2021-11-07 18:20:10 [main] [deleteSentencesWithLessWords] [102] INFO  by.epam.task4.service.Service - Text without words with length 3: []

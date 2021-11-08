@@ -1,0 +1,235 @@
+2021-11-06 12:28:44 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout.
+Bye.
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[(7^5|1&2<<(2|5>>2&71))|1200, ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , , , , , , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , ]
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[, , , , ]
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - цикл
+2021-11-06 12:28:44 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - 
+2021-11-06 12:28:44 [main] [main] [30] INFO  by.epam.task4.main.Main - PARAGRAPH, SENTENCE, LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+
+ 
+PARAGRAPH, SENTENCE, LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+LEXEME,  
+
+ 
+

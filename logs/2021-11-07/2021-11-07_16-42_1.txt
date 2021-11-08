@@ -1,0 +1,254 @@
+2021-11-07 16:42:08 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+It has survived - not only (five) centuries, but also the leap into 13<<2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged. It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more or less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout.
+Bye.
+2021-11-07 16:42:08 [main] [findSentencesWithLongWord] [69] INFO  by.epam.task4.service.Service - Sentences with the longest word: [LEXEME, WORD, SYMBOL, T
+SYMBOL, h
+SYMBOL, e
+
+ 
+LEXEME, WORD, SYMBOL, p
+SYMBOL, o
+SYMBOL, i
+SYMBOL, n
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, o
+SYMBOL, f
+
+ 
+LEXEME, WORD, SYMBOL, u
+SYMBOL, s
+SYMBOL, i
+SYMBOL, n
+SYMBOL, g
+
+ 
+LEXEME, SYMBOL, (
+SYMBOL, ~
+SYMBOL, 7
+SYMBOL, 1
+SYMBOL, &
+SYMBOL, (
+SYMBOL, 2
+SYMBOL, &
+SYMBOL, 3
+SYMBOL, |
+SYMBOL, (
+SYMBOL, 3
+SYMBOL, |
+SYMBOL, (
+SYMBOL, 2
+SYMBOL, &
+SYMBOL, 1
+SYMBOL, >
+SYMBOL, >
+SYMBOL, 2
+SYMBOL, |
+SYMBOL, 2
+SYMBOL, )
+SYMBOL, &
+SYMBOL, 2
+SYMBOL, )
+SYMBOL, |
+SYMBOL, 1
+SYMBOL, 0
+SYMBOL, &
+SYMBOL, 2
+SYMBOL, )
+SYMBOL, )
+SYMBOL, |
+SYMBOL, 7
+SYMBOL, 8
+ 
+LEXEME, SYMBOL, (
+ 
+LEXEME, WORD, SYMBOL, I
+SYMBOL, p
+SYMBOL, s
+SYMBOL, u
+SYMBOL, m
+
+ 
+LEXEME, WORD, SYMBOL, i
+SYMBOL, s
+
+ 
+LEXEME, WORD, SYMBOL, t
+SYMBOL, h
+SYMBOL, a
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, i
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, h
+SYMBOL, a
+SYMBOL, s
+
+ 
+LEXEME, WORD, SYMBOL, a
+
+ 
+LEXEME, WORD, SYMBOL, m
+SYMBOL, o
+SYMBOL, r
+SYMBOL, e
+
+ 
+LEXEME, WORD, SYMBOL, o
+SYMBOL, r
+
+ 
+LEXEME, WORD, SYMBOL, l
+SYMBOL, e
+SYMBOL, s
+SYMBOL, s
+
+ 
+LEXEME, WORD, SYMBOL, n
+SYMBOL, o
+SYMBOL, r
+SYMBOL, m
+SYMBOL, a
+SYMBOL, l
+
+ 
+LEXEME, WORD, SYMBOL, d
+SYMBOL, i
+SYMBOL, s
+SYMBOL, t
+SYMBOL, r
+SYMBOL, i
+SYMBOL, b
+SYMBOL, u
+SYMBOL, t
+SYMBOL, i
+SYMBOL, o
+SYMBOL, n
+
+ 
+LEXEME, WORD, SYMBOL, o
+SYMBOL, f
+
+ 
+LEXEME, WORD, SYMBOL, l
+SYMBOL, e
+SYMBOL, t
+SYMBOL, t
+SYMBOL, e
+SYMBOL, r
+SYMBOL, s
+
+ 
+LEXEME, SYMBOL, ,
+ 
+LEXEME, WORD, SYMBOL, a
+SYMBOL, s
+
+ 
+LEXEME, WORD, SYMBOL, o
+SYMBOL, p
+SYMBOL, p
+SYMBOL, o
+SYMBOL, s
+SYMBOL, e
+SYMBOL, d
+
+ 
+LEXEME, WORD, SYMBOL, t
+SYMBOL, o
+
+ 
+LEXEME, WORD, SYMBOL, u
+SYMBOL, s
+SYMBOL, i
+SYMBOL, n
+SYMBOL, g
+
+ 
+LEXEME, SYMBOL, (
+ 
+LEXEME, WORD, SYMBOL, C
+SYMBOL, o
+SYMBOL, n
+SYMBOL, t
+SYMBOL, e
+SYMBOL, n
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, h
+SYMBOL, e
+SYMBOL, r
+SYMBOL, e
+
+ 
+LEXEME, SYMBOL, ,
+ 
+LEXEME, WORD, SYMBOL, c
+SYMBOL, o
+SYMBOL, n
+SYMBOL, t
+SYMBOL, e
+SYMBOL, n
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, h
+SYMBOL, e
+SYMBOL, r
+SYMBOL, e
+
+ 
+LEXEME, SYMBOL, ,
+ 
+LEXEME, WORD, SYMBOL, m
+SYMBOL, a
+SYMBOL, k
+SYMBOL, i
+SYMBOL, n
+SYMBOL, g
+
+ 
+LEXEME, WORD, SYMBOL, i
+SYMBOL, t
+
+ 
+LEXEME, WORD, SYMBOL, l
+SYMBOL, o
+SYMBOL, o
+SYMBOL, k
+
+ 
+LEXEME, WORD, SYMBOL, l
+SYMBOL, i
+SYMBOL, k
+SYMBOL, e
+
+ 
+LEXEME, WORD, SYMBOL, r
+SYMBOL, e
+SYMBOL, a
+SYMBOL, d
+SYMBOL, a
+SYMBOL, b
+SYMBOL, l
+SYMBOL, e
+
+ 
+LEXEME, WORD, SYMBOL, E
+SYMBOL, n
+SYMBOL, g
+SYMBOL, l
+SYMBOL, i
+SYMBOL, s
+SYMBOL, h
+
+ 
+LEXEME, SYMBOL, .
+ 
+]
