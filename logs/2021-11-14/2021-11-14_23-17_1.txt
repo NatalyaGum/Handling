@@ -1,0 +1,2 @@
+2021-11-14 23:17:34 [main] [countConsonants] [164] INFO  epam.task4.service.impl.CompositeService - Number of consonants in sentence Первый параграф . : 9
+2021-11-14 23:17:45 [main] [countConsonants] [164] INFO  epam.task4.service.impl.CompositeService - Number of consonants in sentence Первый параграф . : 9

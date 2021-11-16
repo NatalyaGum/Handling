@@ -1,0 +1,1 @@
+2021-11-15 14:20:27 [main] [countRepeatWords] [116] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text:  symbol- п symbol- р symbol- е symbol- д symbol- л symbol- о symbol- ж symbol- е symbol- н symbol- и symbol- е/n

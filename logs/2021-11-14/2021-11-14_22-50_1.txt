@@ -1,0 +1,12 @@
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, рsymbol, еsymbol, дsymbol, лsymbol, оsymbol, жsymbol, еsymbol, нsymbol, иsymbol, е/n
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, аsymbol, рsymbol, аsymbol, гsymbol, рsymbol, аsymbol, фsymbol, а/n
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, вsymbol, тsymbol, оsymbol, рsymbol, оsymbol, е/n
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, еsymbol, рsymbol, вsymbol, оsymbol, е/n
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, тsymbol, рsymbol, еsymbol, тsymbol, ьsymbol, еsymbol, гsymbol, о/n
+2021-11-14 22:50:00 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, аsymbol, рsymbol, аsymbol, гsymbol, рsymbol, аsymbol, ф/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, рsymbol, еsymbol, дsymbol, лsymbol, оsymbol, жsymbol, еsymbol, нsymbol, иsymbol, е/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, аsymbol, рsymbol, аsymbol, гsymbol, рsymbol, аsymbol, фsymbol, а/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, вsymbol, тsymbol, оsymbol, рsymbol, оsymbol, е/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, еsymbol, рsymbol, вsymbol, оsymbol, е/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, тsymbol, рsymbol, еsymbol, тsymbol, ьsymbol, еsymbol, гsymbol, о/n
+2021-11-14 22:50:02 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, пsymbol, аsymbol, рsymbol, аsymbol, гsymbol, рsymbol, аsymbol, ф/n

@@ -1,0 +1,6 @@
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: первое/n
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: второе/n
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: параграф/n
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: третьего/n
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: предложение/n
+2021-11-14 23:01:01 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: параграфа/n

@@ -1,0 +1,5 @@
+2021-11-08 21:43:46 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Первый параграф. Первое предложение. Второе предложение.
+Второй параграф. Первое предложение второго параграфа.
+Третий параграф. Первое предложение третьего параграфа. Второе предложение третьего параграфа. Третье предложение третьего параграфа.
+2021-11-08 21:43:46 [main] [findSentencesWithLongWord] [61] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . ]

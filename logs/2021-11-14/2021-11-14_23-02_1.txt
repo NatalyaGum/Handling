@@ -1,0 +1,16 @@
+2021-11-14 23:02:35 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: предложение/n
+2021-11-14 23:02:50 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Первый параграф . 
+2021-11-14 23:02:50 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Первое предложение . 
+2021-11-14 23:02:50 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Второй параграф . 
+2021-11-14 23:02:50 [main] [deleteSentencesWithLessWords] [80] INFO  epam.task4.service.impl.CompositeService - Text without sentence with  words less than 3: Второе и последнее предложение . 
+Первое предложение второго параграфа . 
+
+2021-11-14 23:02:59 [main] [countRepeatWords] [114] INFO  epam.task4.service.impl.CompositeService - Words that repeat in text: предложение/n
+2021-11-14 23:02:59 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Первый параграф . 
+2021-11-14 23:02:59 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Первое предложение . 
+2021-11-14 23:02:59 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : Второй параграф . 
+2021-11-14 23:02:59 [main] [deleteSentencesWithLessWords] [80] INFO  epam.task4.service.impl.CompositeService - Text without sentence with  words less than 3: Второе и последнее предложение . 
+Первое предложение второго параграфа . 
+
+2021-11-14 23:02:59 [main] [findSentencesWithLongWord] [55] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [Первое предложение . ]
+2021-11-14 23:02:59 [main] [sortParagraphs] [30] INFO  epam.task4.service.impl.CompositeService - Sorted paragraphs: [Второй параграф . Первое предложение второго параграфа . , Первый параграф . Первое предложение . Второе предложение . , Третий параграф . Первое предложение третьего параграфа . Второе предложение третьего параграфа . Третье предложение третьего параграфа . ]

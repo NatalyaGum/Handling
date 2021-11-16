@@ -1,0 +1,6 @@
+2021-11-14 22:02:15 [main] [createData] [38] INFO  epam.task4.parser.impl.ParagraphParserTest - wordWORD, SYMBOL, WSYMBOL, oSYMBOL, rSYMBOL, d
+2021-11-14 22:02:15 [main] [createData] [42] INFO  epam.task4.parser.impl.ParagraphParserTest - lexeme1LEXEME, WORD, SYMBOL, WSYMBOL, oSYMBOL, rSYMBOL, d 
+2021-11-14 22:02:15 [main] [createData] [50] INFO  epam.task4.parser.impl.ParagraphParserTest - lexeme2LEXEME, SYMBOL, . 
+2021-11-14 22:02:15 [main] [createData] [53] INFO  epam.task4.parser.impl.ParagraphParserTest - sentenceSENTENCE, LEXEME, WORD, SYMBOL, WSYMBOL, oSYMBOL, rSYMBOL, d LEXEME, LEXEME, SYMBOL, .  
+2021-11-14 22:02:15 [main] [createData] [55] INFO  epam.task4.parser.impl.ParagraphParserTest - paragraphPARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, WSYMBOL, oSYMBOL, rSYMBOL, d LEXEME, LEXEME, SYMBOL, .  
+	

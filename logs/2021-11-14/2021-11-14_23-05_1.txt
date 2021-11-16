@@ -1,0 +1,2 @@
+2021-11-14 23:05:09 [main] [countVowels] [139] INFO  epam.task4.service.impl.CompositeService - Number of vowels in sentence Первый параграф . Первое предложение . Второе предложение . 
+: 0

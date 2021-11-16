@@ -1,0 +1,6 @@
+2021-11-14 18:37:14 [main] [createData] [32] INFO  epam.task4.parser.impl.ParagraphParserTest - wordWORD, wWORD, oWORD, rWORD, d
+2021-11-14 18:37:14 [main] [createData] [34] INFO  epam.task4.parser.impl.ParagraphParserTest - lexeme1LEXEME, WORD, wWORD, oWORD, rWORD, d 
+2021-11-14 18:37:14 [main] [createData] [39] INFO  epam.task4.parser.impl.ParagraphParserTest - lexeme2LEXEME, 2 LEXEME, | LEXEME, 0 LEXEME, . 
+2021-11-14 18:37:14 [main] [createData] [47] INFO  epam.task4.parser.impl.ParagraphParserTest - paragraphPARAGRAPH, SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, 2 LEXEME, | LEXEME, 0 LEXEME, . 
+	PARAGRAPH, SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, WORD, wWORD, oWORD, rWORD, d SENTENCE, LEXEME, 2 LEXEME, | LEXEME, 0 LEXEME, . 
+	

@@ -1,0 +1,10 @@
+2021-11-08 22:05:13 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Первый параграф. Первое предложение. Второе и последнее предложение.
+Второй параграф. Первое предложение второго параграфа.
+
+2021-11-08 22:05:13 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, ыSYMBOL, й LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, ф LEXEME, SYMBOL, . 
+2021-11-08 22:05:13 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . 
+2021-11-08 22:05:13 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ВSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, й LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, ф LEXEME, SYMBOL, . 
+2021-11-08 22:05:13 [main] [deleteSentencesWithLessWords] [80] INFO  epam.task4.service.impl.CompositeService - Text without sentence with  words less than 3: PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, ВSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, и LEXEME, WORD, SYMBOL, пSYMBOL, оSYMBOL, сSYMBOL, лSYMBOL, еSYMBOL, дSYMBOL, нSYMBOL, еSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . 
+	PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, WORD, SYMBOL, вSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, гSYMBOL, о LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, фSYMBOL, а LEXEME, SYMBOL, . 
+	

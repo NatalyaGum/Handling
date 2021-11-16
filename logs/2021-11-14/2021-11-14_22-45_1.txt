@@ -1,0 +1,1 @@
+2021-11-14 22:45:10 [main] [findSentencesWithLongWord] [55] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . ]

@@ -1,0 +1,54 @@
+2021-11-08 22:01:38 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Первый параграф. Первое предложение. Второе предложение.
+Второй параграф. Первое предложение второго параграфа.
+Третий параграф. Первое предложение третьего параграфа. Второе предложение третьего параграфа. Третье предложение третьего параграфа.
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, ыSYMBOL, й LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, ф LEXEME, SYMBOL, . 
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . 
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ВSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, SYMBOL, . 
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ВSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, й LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, ф LEXEME, SYMBOL, . 
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [74] INFO  epam.task4.service.impl.CompositeService - Sentence was removed : LEXEME, WORD, SYMBOL, ТSYMBOL, рSYMBOL, еSYMBOL, тSYMBOL, иSYMBOL, й LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, ф LEXEME, SYMBOL, . 
+2021-11-08 22:01:38 [main] [deleteSentencesWithLessWords] [80] INFO  epam.task4.service.impl.CompositeService - Text without sentence with  words less than 3: PARAGRAPH, 
+	PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, WORD, SYMBOL, вSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, гSYMBOL, о LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, фSYMBOL, а LEXEME, SYMBOL, . 
+	PARAGRAPH, SENTENCE, LEXEME, WORD, SYMBOL, ПSYMBOL, еSYMBOL, рSYMBOL, вSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, WORD, SYMBOL, тSYMBOL, рSYMBOL, еSYMBOL, тSYMBOL, ьSYMBOL, еSYMBOL, гSYMBOL, о LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, фSYMBOL, а LEXEME, SYMBOL, . SENTENCE, LEXEME, WORD, SYMBOL, ВSYMBOL, тSYMBOL, оSYMBOL, рSYMBOL, оSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, WORD, SYMBOL, тSYMBOL, рSYMBOL, еSYMBOL, тSYMBOL, ьSYMBOL, еSYMBOL, гSYMBOL, о LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, фSYMBOL, а LEXEME, SYMBOL, . SENTENCE, LEXEME, WORD, SYMBOL, ТSYMBOL, рSYMBOL, еSYMBOL, тSYMBOL, ьSYMBOL, е LEXEME, WORD, SYMBOL, пSYMBOL, рSYMBOL, еSYMBOL, дSYMBOL, лSYMBOL, оSYMBOL, жSYMBOL, еSYMBOL, нSYMBOL, иSYMBOL, е LEXEME, WORD, SYMBOL, тSYMBOL, рSYMBOL, еSYMBOL, тSYMBOL, ьSYMBOL, еSYMBOL, гSYMBOL, о LEXEME, WORD, SYMBOL, пSYMBOL, аSYMBOL, рSYMBOL, аSYMBOL, гSYMBOL, рSYMBOL, аSYMBOL, фSYMBOL, а LEXEME, SYMBOL, . 
+	
+2021-11-08 22:01:58 [main] [readText] [29] ERROR epam.task4.reader.impl.TextReaderImpl - src/test/test_resources/text2.txt I/O error 
+java.nio.file.NoSuchFileException: src\test\test_resources\text2.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3288) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3366) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3325) ~[?:?]
+	at by.epam.task4.reader.impl.TextReaderImpl.readText(TextReaderImpl.java:22) ~[classes/:?]
+	at by.epam.task4.service.impl.CompositeServiceTest.readText(CompositeServiceTest.java:24) ~[test-classes/:?]
+	at by.epam.task4.service.impl.CompositeServiceTest.testDeleteSentencesWithLessWords(CompositeServiceTest.java:67) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.4.0.jar:7.4.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:794) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:596) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) [testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) [testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) [testng-7.4.0.jar:7.4.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109) [testng-rt.jar:?]
