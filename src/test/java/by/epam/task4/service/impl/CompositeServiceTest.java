@@ -24,7 +24,7 @@ public class CompositeServiceTest {
         List<TextComponent> expectedSortedParagraphs = parseText(
                 "Второй параграф. Первое предложение второго параграфа.\n" +
                         "Первый параграф. Первое предложение. Второе предложение.\n" +
-                        "Третий параграф. Первое предложение третьего параграфа. Второе предложение третьего параграфа. Третье предложение третьего параграфа.").getList();
+                        "Третий параграф. Первое предложение третьего параграфа. Второе предложение третьего параграфа. Третье предложение третьего параграфа.").getChild();
         TextComposite composite = parseText("Первый параграф. Первое предложение. Второе предложение.\n" +
                 "Второй параграф. Первое предложение второго параграфа.\n" +
                 "Третий параграф. Первое предложение третьего параграфа. Второе предложение третьего параграфа. Третье предложение третьего параграфа.");
@@ -43,7 +43,7 @@ public class CompositeServiceTest {
         List<TextComponent> actualSentences = service.findSentencesWithLongWord(composite);
         SentenceParser sentenceParser = new SentenceParser();
         TextComposite expectedComposite = sentenceParser.parse("Первое предложение.");
-        List<TextComponent> expectedSentences = expectedComposite.getList();
+        List<TextComponent> expectedSentences = expectedComposite.getChild();
         Assert.assertEquals(expectedSentences.toString(), actualSentences.toString());
 
 
@@ -77,8 +77,8 @@ public class CompositeServiceTest {
     public void testCountVowels() {
         TextComposite composite = parseText("Первый параграф. Первое предложение. Второе предложение.");
         CompositeService service = new CompositeService();
-        List<TextComponent> paragraphs = composite.getList();
-        List<TextComponent> sentences = paragraphs.get(0).getList();
+        List<TextComponent> paragraphs = composite.getChild();
+        List<TextComponent> sentences = paragraphs.get(0).getChild();
         int actualCount = service.countVowels(sentences.get(0));
         int expectedCount = 5;
         Assert.assertEquals(actualCount, expectedCount);
@@ -88,8 +88,8 @@ public class CompositeServiceTest {
     public void testCountConsonants() {
         TextComposite composite = parseText("Первый параграф. Первое предложение. Второе предложение.");
         CompositeService service = new CompositeService();
-        List<TextComponent> paragraphs = composite.getList();
-        List<TextComponent> sentences = paragraphs.get(0).getList();
+        List<TextComponent> paragraphs = composite.getChild();
+        List<TextComponent> sentences = paragraphs.get(0).getChild();
         int actualCount = service.countConsonants(sentences.get(0));
         int expectedCount = 9;
         Assert.assertEquals(actualCount, expectedCount);

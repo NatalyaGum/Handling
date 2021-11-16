@@ -28,7 +28,6 @@ public class TextReaderImpl implements TextReader {
         } catch (IOException ex) {
             logger.error(pathToFile + " I/O error ", ex);
             throw new HandlingException(pathToFile + " I/O error ", ex);
-
         }
         return text;
     }

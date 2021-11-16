@@ -19,7 +19,7 @@ public class CompositeService implements Service {
     @Override
     public List<TextComponent> sortParagraphs(TextComposite composite) {
 
-        List<TextComponent> sortedParagraphs = composite.getList();
+        List<TextComponent> sortedParagraphs = composite.getChild();
         sortedParagraphs.sort(new Comparator<TextComponent>() {
             public int compare(TextComponent o1, TextComponent o2) {
                 return o1.size() - o2.size();
@@ -33,13 +33,13 @@ public class CompositeService implements Service {
     public List<TextComponent> findSentencesWithLongWord(TextComposite composite) {
         int maxLength = 0;
         List<TextComponent> sentencesWithWord = new ArrayList<>();
-        List<TextComponent> paragraphs = composite.getList();
+        List<TextComponent> paragraphs = composite.getChild();
         for (TextComponent paragraph : paragraphs) {
-            List<TextComponent> sentences = paragraph.getList();
+            List<TextComponent> sentences = paragraph.getChild();
             for (TextComponent sentence : sentences) {
-                List<TextComponent> lexemes = sentence.getList();
+                List<TextComponent> lexemes = sentence.getChild();
                 for (TextComponent lexeme : lexemes) {
-                    List<TextComponent> wordsAndSymbols = lexeme.getList();
+                    List<TextComponent> wordsAndSymbols = lexeme.getChild();
                     for (TextComponent word : wordsAndSymbols) {
                         if (word.size() > maxLength) {
                             maxLength = word.size();
@@ -59,12 +59,12 @@ public class CompositeService implements Service {
         List<TextComponent> sentencesAfterRemoving = new ArrayList<>();
         List<TextComponent> sentences = null;
         int count = 0;
-        List<TextComponent> paragraphs = composite.getList();
+        List<TextComponent> paragraphs = composite.getChild();
         for (TextComponent paragraph : paragraphs) {
-            sentences = paragraph.getList();
+            sentences = paragraph.getChild();
             sentencesAfterRemoving.addAll(sentences);
             for (TextComponent sentence : sentences) {
-                List<TextComponent> lexemes = sentence.getList();
+                List<TextComponent> lexemes = sentence.getChild();
                 for (TextComponent lexeme : lexemes) {
                     if (lexeme.getType().equals(ComponentType.WORD)) {
                         ++count;
@@ -86,14 +86,14 @@ public class CompositeService implements Service {
     @Override
     public List<String> countRepeatWords(TextComposite composite) {
         Map<String, Integer> textWords = new HashMap<>();
-        List<TextComponent> paragraphs = composite.getList();
+        List<TextComponent> paragraphs = composite.getChild();
         for (TextComponent paragraph : paragraphs) {
-            List<TextComponent> sentences = paragraph.getList();
+            List<TextComponent> sentences = paragraph.getChild();
             for (TextComponent sentence : sentences) {
-                List<TextComponent> lexemes = sentence.getList();
+                List<TextComponent> lexemes = sentence.getChild();
                 for (TextComponent lexeme : lexemes) {
                     if (lexeme.getType().equals(ComponentType.WORD)) {
-                        List<TextComponent> words = lexeme.getList();
+                        List<TextComponent> words = lexeme.getChild();
                         for (TextComponent word : words) {
                             int counter = 1;
                             String wordWithoutCase = word.toString().toLowerCase();
@@ -124,12 +124,12 @@ public class CompositeService implements Service {
         Pattern pattern = Pattern.compile(VOWEL_REGEX);
         Matcher matcher;
         int counter = 0;
-        List<TextComponent> lexemes = sentence.getList();
+        List<TextComponent> lexemes = sentence.getChild();
         for (TextComponent lexeme : lexemes) {
             if (lexeme.getType().equals(ComponentType.WORD)) {
-                List<TextComponent> words = lexeme.getList();
+                List<TextComponent> words = lexeme.getChild();
                 for (TextComponent word : words) {
-                    List<TextComponent> symbols = word.getList();
+                    List<TextComponent> symbols = word.getChild();
                     for (TextComponent symbol : symbols) {
                         matcher = pattern.matcher(symbol.toString().toLowerCase());
                         if (matcher.matches()) {
@@ -149,12 +149,12 @@ public class CompositeService implements Service {
         Pattern pattern = Pattern.compile(CONSONANT_REGEX);
         Matcher matcher;
         int counter = 0;
-        List<TextComponent> lexemes = sentence.getList();
+        List<TextComponent> lexemes = sentence.getChild();
         for (TextComponent lexeme : lexemes) {
             if (lexeme.getType().equals(ComponentType.WORD)) {
-                List<TextComponent> words = lexeme.getList();
+                List<TextComponent> words = lexeme.getChild();
                 for (TextComponent word : words) {
-                    List<TextComponent> symbols = word.getList();
+                    List<TextComponent> symbols = word.getChild();
                     for (TextComponent symbol : symbols) {
                         matcher = pattern.matcher(symbol.toString().toLowerCase());
                         if (matcher.matches()) {

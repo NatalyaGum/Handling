@@ -8,13 +8,19 @@ public interface TextComponent {
 
     void remove(TextComponent component);
 
-    List<TextComponent> getList();
+    List<TextComponent> getChild();
 
     int size();
 
+    void setComponents(List<TextComponent> components);
+
     ComponentType getType();
+
+    boolean equals(Object o);
+
+    int hashCode();
 
     String toString();
 
-    void setComponents(List<TextComponent> components);
+
 }

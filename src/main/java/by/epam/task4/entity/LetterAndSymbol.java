@@ -34,7 +34,7 @@ public class LetterAndSymbol implements TextComponent {
     }
 
     @Override
-    public List<TextComponent> getList() {
+    public List<TextComponent> getChild() {
         logger.warn("Hasn't got list");
         throw new UnsupportedOperationException("Unsupported operation remove symbol");
     }
@@ -44,10 +44,28 @@ public class LetterAndSymbol implements TextComponent {
         return ComponentType.SYMBOL;
     }
 
+
     @Override
     public int size() {
         return 1;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof LetterAndSymbol)) return false;
+        LetterAndSymbol that = (LetterAndSymbol) o;
+        return character == that.character && (componentType != null ? componentType == that.componentType : that.componentType == null);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = 11;
+        result = result * Character.hashCode(character);
+        result = result + (componentType != null ? componentType.hashCode() : 0);
+        return result;
+    }
+
 
     @Override
     public String toString() {
