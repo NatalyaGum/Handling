@@ -10,7 +10,6 @@ import org.apache.logging.log4j.Logger;
 
 
 public class ParagraphParser implements TextParser {
-    static Logger logger = LogManager.getLogger();
 
     private static final String PARAGRAPH_REGEX = "[\\n\\t]+";
     private final TextParser sentenceParser = new SentenceParser();

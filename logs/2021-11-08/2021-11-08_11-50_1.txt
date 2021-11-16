@@ -2,30 +2,30 @@
 It has survived - not only (five) centuries, but also the leap into 13<<2 electronic typesetting, remaining 3>>5 essentially ~6&9|(3&4) unchanged. It was popularised in the 5|(1&2&(3|(4&(1^5|6&47)|3)|(~89&4|(42&7)))|1) with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using (~71&(2&3|(3|(2&1>>2|2)&2)|10&2))|78 Ipsum is that it has a more or less normal distribution of letters, as opposed to using (Content here), content here', making it look like readable English. It is a (7^5|1&2<<(2|5>>2&71))|1200 established fact that a reader will be of a page when looking at its layout.
 Bye.
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, isymbol, psymbol, ssymbol, usymbol, m/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, isymbol, tsymbol, s/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, lsymbol, osymbol, rsymbol, esymbol, m/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, rsymbol, esymbol, asymbol, dsymbol, esymbol, r/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, hsymbol, asymbol, s/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, bsymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, fsymbol, asymbol, csymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, usymbol, ssymbol, isymbol, nsymbol, g/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, msymbol, osymbol, rsymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, rsymbol, esymbol, asymbol, dsymbol, asymbol, bsymbol, lsymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, csymbol, osymbol, nsymbol, tsymbol, esymbol, nsymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, wsymbol, hsymbol, esymbol, n/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, esymbol, ssymbol, tsymbol, asymbol, bsymbol, lsymbol, isymbol, ssymbol, hsymbol, esymbol, d/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, asymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, osymbol, f/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, lsymbol, asymbol, ysymbol, osymbol, usymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, psymbol, asymbol, gsymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, wsymbol, isymbol, tsymbol, h/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, tsymbol, hsymbol, asymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, lsymbol, osymbol, osymbol, ksymbol, isymbol, nsymbol, g/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, tsymbol, hsymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, a/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, wsymbol, isymbol, lsymbol, l/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, lsymbol, isymbol, ksymbol, e/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, isymbol, s/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, isymbol, t/n
-2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.Service - Words that repeat in text: symbol, hsymbol, esymbol, rsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, isymbol, psymbol, ssymbol, usymbol, m/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, isymbol, tsymbol, s/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, lsymbol, osymbol, rsymbol, esymbol, m/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, rsymbol, esymbol, asymbol, dsymbol, esymbol, r/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, hsymbol, asymbol, s/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, bsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, fsymbol, asymbol, csymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, usymbol, ssymbol, isymbol, nsymbol, g/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, msymbol, osymbol, rsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, rsymbol, esymbol, asymbol, dsymbol, asymbol, bsymbol, lsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, csymbol, osymbol, nsymbol, tsymbol, esymbol, nsymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, wsymbol, hsymbol, esymbol, n/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, esymbol, ssymbol, tsymbol, asymbol, bsymbol, lsymbol, isymbol, ssymbol, hsymbol, esymbol, d/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, asymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, osymbol, f/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, lsymbol, asymbol, ysymbol, osymbol, usymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, psymbol, asymbol, gsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, wsymbol, isymbol, tsymbol, h/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, tsymbol, hsymbol, asymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, lsymbol, osymbol, osymbol, ksymbol, isymbol, nsymbol, g/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, tsymbol, hsymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, a/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, wsymbol, isymbol, lsymbol, l/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, lsymbol, isymbol, ksymbol, e/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, isymbol, s/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, isymbol, t/n
+2021-11-08 11:50:18 [main] [countRepeatWords] [145] INFO  by.epam.task4.service.impl.CompositeService - Words that repeat in text: symbol, hsymbol, esymbol, rsymbol, e/n

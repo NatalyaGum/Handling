@@ -4,9 +4,9 @@ It is a long established fact that a reader will be distracted by the readable c
 Bye
 2021-11-06 14:25:43 [main] [parse] [38] INFO  epam.task4.parser.impl.LexemeParser - Math[]
 2021-11-06 14:25:43 [main] [parse] [17] INFO  epam.task4.parser.impl.SymbolParser - It
-2021-11-06 14:25:43 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@3cebbb30
-2021-11-06 14:25:43 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.Symbol@12aba8be
-2021-11-06 14:25:43 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, by.epam.task4.entity.Symbol@3cebbb30
-SYMBOL, by.epam.task4.entity.Symbol@12aba8be
+2021-11-06 14:25:43 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.LetterAndSymbol@3cebbb30
+2021-11-06 14:25:43 [main] [parse] [21] INFO  epam.task4.parser.impl.SymbolParser - by.epam.task4.entity.LetterAndSymbol@12aba8be
+2021-11-06 14:25:43 [main] [parse] [63] INFO  epam.task4.parser.impl.LexemeParser - wordParserWORD, SYMBOL, by.epam.task4.entity.LetterAndSymbol@3cebbb30
+SYMBOL, by.epam.task4.entity.LetterAndSymbol@12aba8be
 
 

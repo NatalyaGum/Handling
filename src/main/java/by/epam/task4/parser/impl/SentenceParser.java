@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 
 public class SentenceParser implements TextParser {
 
-    private final String SENTENCE_REGEX = "([А-ЯA-Z]((!=|.toString)|[^?!.(]|\\([^)]*\\))*[.?!]{1,3})";//".+[.?!…](?=\\s|$)";
+    private final String SENTENCE_REGEX = "([А-ЯA-Z]((!=|.toString)|[^?!.(]|\\([^)]*\\))*[.?!]{1,3})";
     private final TextParser lexemeParser = new LexemeParser();
 
     @Override

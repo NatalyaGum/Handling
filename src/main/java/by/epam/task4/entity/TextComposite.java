@@ -4,16 +4,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TextComposite implements TextComponent {
-    private List<TextComponent> components=new ArrayList<>();
+    private List<TextComponent> components = new ArrayList<>();
     private ComponentType componentType;
 
     public TextComposite() {
 
     }
+
     public TextComposite(ComponentType componentType) {
         this.componentType = componentType;
 
     }
+
     @Override
     public void add(TextComponent component) {
         components.add(component);
@@ -34,7 +36,7 @@ public class TextComposite implements TextComponent {
         return components.size();
     }
 
-  @Override()
+    @Override()
     public ComponentType getType() {
         return componentType;
     }
@@ -46,20 +48,14 @@ public class TextComposite implements TextComponent {
         }
     }
 
-    /*@Override
-    public String toString() {
-        return "TextComposite{" +
-                "components=" + components + "\n"+
-                ", componentType=" + componentType +
-                '}';
-    }*/
-  @Override
+    @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
         String delimiter = componentType.getDelimiter();
         for (TextComponent textComponent : components) {
-            sb.append(componentType+", ").append(textComponent.toString()).append(delimiter);
+            sb.append(" "+componentType + "- ").append(textComponent.toString()).append(delimiter);
         }
         return sb.toString();
     }
+
 }

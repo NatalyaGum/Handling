@@ -5,7 +5,7 @@ import by.epam.task4.entity.TextComposite;
 import by.epam.task4.exception.HandlingException;
 import by.epam.task4.parser.impl.ParagraphParser;
 import by.epam.task4.reader.impl.TextReaderImpl;
-import by.epam.task4.service.Service;
+import by.epam.task4.service.impl.CompositeService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -18,34 +18,22 @@ public class Main {
 
         TextReaderImpl reader = new TextReaderImpl();
         String text = reader.readText("src/main/resources/text.txt");
-
-
-    ParagraphParser paragraphParser = new ParagraphParser();
-  /*  SentenceParser sentenceParser = new SentenceParser();
-    LexemeParser lexemeParser = new LexemeParser();
-    WordParser wordParser = new WordParser();
-    SymbolParser symbolParser = new SymbolParser();*/
-    /* paragraphParser.setNextParser(sentenceParser);
-     sentenceParser.setNextParser(lexemeParser);
-     lexemeParser.setNextParser(wordParser);
-     wordParser.setNextParser(symbolParser);*/
-    TextComposite composite = paragraphParser.parse(text);
-
-       // logger.info(composite);
-
-        Service service=new Service();
+        ParagraphParser paragraphParser = new ParagraphParser();
+        TextComposite composite = paragraphParser.parse(text);
+        CompositeService service = new CompositeService();
         //service.sortParagraphs(composite);
-        //service.findSentencesWithLongWord(composite);
-       // service.deleteSentencesWithLessWords(composite,3);
-      // logger.info(composite);
-       //service.countRepeatWords(composite);
+        service.findSentencesWithLongWord(composite);
+        // service.deleteSentencesWithLessWords(composite,3);
 
-        List<TextComponent> paragraphs = composite.getList();
+        // logger.info("text: "+composite);
+        //service.countRepeatWords(composite);
+
+        /*List<TextComponent> paragraphs = composite.getList();
         for (TextComponent paragraph : paragraphs) {
             List<TextComponent> sentences = paragraph.getList();
             for (TextComponent sentence : sentences) {
         service.countVowels(sentence);
-
-                service.countConsonants(sentence);}
-}}}
+        service.countConsonants(sentence);}*/
+    }
+}
 

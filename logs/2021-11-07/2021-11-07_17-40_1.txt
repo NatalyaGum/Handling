@@ -1,4 +1,4 @@
-2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.Service -  word: SYMBOL, p
+2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.impl.CompositeService -  word: SYMBOL, p
 SYMBOL, o
 SYMBOL, p
 SYMBOL, u
@@ -10,7 +10,7 @@ SYMBOL, s
 SYMBOL, e
 SYMBOL, d
 
-2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.Service -  word: SYMBOL, e
+2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [63] INFO  by.epam.task4.service.impl.CompositeService -  word: SYMBOL, e
 SYMBOL, s
 SYMBOL, t
 SYMBOL, a
@@ -22,7 +22,7 @@ SYMBOL, h
 SYMBOL, e
 SYMBOL, d
 
-2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [70] INFO  by.epam.task4.service.Service - Sentences with the longest word: [LEXEME, WORD, SYMBOL, T
+2021-11-07 17:40:19 [main] [findSentencesWithLongWord] [70] INFO  by.epam.task4.service.impl.CompositeService - Sentences with the longest word: [LEXEME, WORD, SYMBOL, T
 SYMBOL, h
 SYMBOL, e
 

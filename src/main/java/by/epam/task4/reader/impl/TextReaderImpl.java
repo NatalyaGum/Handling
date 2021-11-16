@@ -18,18 +18,20 @@ public class TextReaderImpl implements TextReader {
     public String readText(String pathToFile) throws HandlingException {
         String text;
 
-        try{
+        try {
             text = Files.readString(Paths.get(pathToFile));
             logger.info("Text: " + "\n" + text);
 
-        } catch ( FileNotFoundException ex) {
+        } catch (FileNotFoundException ex) {
             logger.error(pathToFile + " - the file was not found, ", ex);
             throw new HandlingException(pathToFile + " - the file was not found, ", ex);
         } catch (IOException ex) {
             logger.error(pathToFile + " I/O error ", ex);
             throw new HandlingException(pathToFile + " I/O error ", ex);
 
-        }return text;}
+        }
+        return text;
+    }
 }
 
 

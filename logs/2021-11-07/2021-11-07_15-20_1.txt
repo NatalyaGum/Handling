@@ -2575,7 +2575,7 @@ LEXEME, SYMBOL, .
 
  
 
-2021-11-07 15:20:56 [main] [sortParagraphs] [33] ERROR by.epam.task4.service.Service - Sorted paragraphs: [SENTENCE, LEXEME, WORD, SYMBOL, B
+2021-11-07 15:20:56 [main] [sortParagraphs] [33] ERROR by.epam.task4.service.impl.CompositeService - Sorted paragraphs: [SENTENCE, LEXEME, WORD, SYMBOL, B
 SYMBOL, y
 SYMBOL, e
 

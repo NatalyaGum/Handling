@@ -5,5 +5,5 @@ import by.epam.task4.exception.HandlingException;
 
 public interface TextReader {
 
-     String readText(String pathToFile) throws HandlingException;
+    String readText(String pathToFile) throws HandlingException;
 }

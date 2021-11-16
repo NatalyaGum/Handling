@@ -1578,7 +1578,7 @@ SYMBOL, e
 2021-11-07 15:21:11 [main] [parse] [20] INFO  epam.task4.parser.impl.SymbolParser - .
 2021-11-07 15:21:11 [main] [parse] [76] INFO  epam.task4.parser.impl.LexemeParser - postCompositeSYMBOL, .
 
-2021-11-07 15:21:11 [main] [sortParagraphs] [33] ERROR by.epam.task4.service.Service - Sorted paragraphs: [SENTENCE, LEXEME, WORD, SYMBOL, B
+2021-11-07 15:21:11 [main] [sortParagraphs] [33] ERROR by.epam.task4.service.impl.CompositeService - Sorted paragraphs: [SENTENCE, LEXEME, WORD, SYMBOL, B
 SYMBOL, y
 SYMBOL, e
 
