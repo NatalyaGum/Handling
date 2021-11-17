@@ -71,7 +71,7 @@ public class TextComposite implements TextComponent {
         StringBuilder sb = new StringBuilder();
         String delimiter = componentType.getDelimiter();
         for (TextComponent textComponent : components) {
-            sb.append(" " + componentType + "- ").append(textComponent.toString()).append(delimiter);
+            sb.append(" " + componentType + " [").append(textComponent.toString()).append(delimiter).append("]");
         }
         return sb.toString();
     }

@@ -21,11 +21,12 @@ public class Main {
         ParagraphParser paragraphParser = new ParagraphParser();
         TextComposite composite = paragraphParser.parse(text);
         CompositeService service = new CompositeService();
+        logger.info("text: "+composite);
         //service.sortParagraphs(composite);
         service.findSentencesWithLongWord(composite);
         // service.deleteSentencesWithLessWords(composite,3);
 
-        // logger.info("text: "+composite);
+
         //service.countRepeatWords(composite);
 
         /*List<TextComponent> paragraphs = composite.getList();
