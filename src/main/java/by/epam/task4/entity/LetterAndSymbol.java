@@ -15,7 +15,6 @@ public class LetterAndSymbol implements TextComponent {
         this.character = character;
     }
 
-
     public LetterAndSymbol(ComponentType componentType, char character) {
         this.componentType = componentType;
         this.character = character;
@@ -55,7 +54,9 @@ public class LetterAndSymbol implements TextComponent {
         if (this == o) return true;
         if (!(o instanceof LetterAndSymbol)) return false;
         LetterAndSymbol that = (LetterAndSymbol) o;
-        return character == that.character && (componentType != null ? componentType == that.componentType : that.componentType == null);
+        return character == that.character && (componentType != null ?
+                componentType == that.componentType :
+                that.componentType == null);
     }
 
     @Override
@@ -69,9 +70,7 @@ public class LetterAndSymbol implements TextComponent {
 
     @Override
     public String toString() {
-        return new StringBuilder()
-                .append(character)
-                .toString();
+        return Character.toString(character);
     }
 
     @Override

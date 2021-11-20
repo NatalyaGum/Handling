@@ -55,7 +55,6 @@ public class TextComposite implements TextComponent {
         return components.equals(that.components) && (componentType != null ? componentType == that.componentType : that.componentType == null);
     }
 
-
     @Override
     public int hashCode() {
         int result = 11;
@@ -64,14 +63,12 @@ public class TextComposite implements TextComponent {
         return result;
     }
 
-
-
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
         String delimiter = componentType.getDelimiter();
         for (TextComponent textComponent : components) {
-            sb.append(" " + componentType + " [").append(textComponent.toString()).append(delimiter).append("]");
+            sb.append(" " + componentType + " [").append(textComponent.toString()).append("]").append(delimiter);
         }
         return sb.toString();
     }

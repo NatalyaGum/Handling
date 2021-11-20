@@ -68,7 +68,7 @@ public class CompositeServiceTest {
         CompositeService service = new CompositeService();
         List<String> actualWords = service.countRepeatWords(composite);
         List<String> expectedWords = new ArrayList<>();
-        expectedWords.add(" symbol- п symbol- р symbol- е symbol- д symbol- л symbol- о symbol- ж symbol- е symbol- н symbol- и symbol- е");
+        expectedWords.add(" symbol [п] symbol [р] symbol [е] symbol [д] symbol [л] symbol [о] symbol [ж] symbol [е] symbol [н] symbol [и] symbol [е]");
         Assert.assertEquals(actualWords, expectedWords);
 
     }

@@ -21,20 +21,19 @@ public class Main {
         ParagraphParser paragraphParser = new ParagraphParser();
         TextComposite composite = paragraphParser.parse(text);
         CompositeService service = new CompositeService();
-        logger.info("text: "+composite);
         //service.sortParagraphs(composite);
-        service.findSentencesWithLongWord(composite);
-        // service.deleteSentencesWithLessWords(composite,3);
+        // service.findSentencesWithLongWord(composite);
+        //service.deleteSentencesWithLessWords(composite,3);
 
+         logger.info("text: "+composite);
+        //  service.countRepeatWords(composite);
 
-        //service.countRepeatWords(composite);
-
-        /*List<TextComponent> paragraphs = composite.getList();
+      /*  List<TextComponent> paragraphs = composite.getChild();
         for (TextComponent paragraph : paragraphs) {
-            List<TextComponent> sentences = paragraph.getList();
+            List<TextComponent> sentences = paragraph.getChild();
             for (TextComponent sentence : sentences) {
-        service.countVowels(sentence);
-        service.countConsonants(sentence);}*/
-    }
-}
-
+                service.countVowels(sentence);
+                service.countConsonants(sentence);
+            }
+        }*/
+    }}
