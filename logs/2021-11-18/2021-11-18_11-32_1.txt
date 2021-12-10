@@ -1,0 +1,12 @@
+2021-11-18 11:32:43 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (five) da.
+Bye.
+2021-11-18 11:32:43 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: )
+2021-11-18 11:32:43 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:32:43 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:32:43 [main] [main] [26] INFO  by.epam.task4.main.Main - text:  TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H]] WORD [ SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [f]] WORD [ SYMBOL [i]] WORD [ SYMBOL [v]] WORD [ SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d]] WORD [ SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]
+]
+	] TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [B]] WORD [ SYMBOL [y]] WORD [ SYMBOL [e]] ] LEXEME [ SYMBOL [.] ]]
+]
+	]
+2021-11-18 11:32:43 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H]] WORD [ SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [f]] WORD [ SYMBOL [i]] WORD [ SYMBOL [v]] WORD [ SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d]] WORD [ SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]]

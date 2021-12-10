@@ -1,0 +1,20 @@
+2021-11-18 11:25:11 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (Five) da.
+Bye.
+2021-11-18 11:25:11 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: )
+2021-11-18 11:25:11 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:25:11 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:25:11 [main] [main] [26] INFO  by.epam.task4.main.Main - text:  TEXT [
+	] TEXT [
+	]
+2021-11-18 11:25:11 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: []
+2021-11-18 11:25:41 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (Five) da.
+Bye.
+2021-11-18 11:25:41 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: )
+2021-11-18 11:25:41 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:25:41 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:25:41 [main] [main] [26] INFO  by.epam.task4.main.Main - text:  TEXT [
+	] TEXT [
+	]
+2021-11-18 11:25:41 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: []

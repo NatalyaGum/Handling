@@ -1,0 +1,13 @@
+2021-11-18 11:02:00 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (Five).
+Bye.
+2021-11-18 11:02:00 [main] [parse] [40] INFO  epam.task4.parser.impl.LexemeParser - text: 3
+2021-11-18 11:02:00 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - text:  LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ] LEXEME [ SYMBOL [)] SYMBOL [.] ] LEXEME [ SYMBOL [)] SYMBOL [.] ]
+2021-11-18 11:02:00 [main] [parse] [32] INFO  epam.task4.parser.impl.SentenceParser - text:  SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ] LEXEME [ SYMBOL [)] SYMBOL [.] ] LEXEME [ SYMBOL [)] SYMBOL [.] ]]
+2021-11-18 11:02:00 [main] [parse] [25] INFO  epam.task4.parser.impl.ParagraphParser - text: 2
+2021-11-18 11:02:00 [main] [parse] [40] INFO  epam.task4.parser.impl.LexemeParser - text: 2
+2021-11-18 11:02:00 [main] [parse] [41] INFO  epam.task4.parser.impl.LexemeParser - text:  LEXEME [ SYMBOL [.] ] LEXEME [ WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] ]
+2021-11-18 11:02:00 [main] [parse] [32] INFO  epam.task4.parser.impl.SentenceParser - text:  SENTENCE [ LEXEME [ SYMBOL [.] ] LEXEME [ WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] ]]
+2021-11-18 11:02:00 [main] [parse] [25] INFO  epam.task4.parser.impl.ParagraphParser - text: 2
+2021-11-18 11:02:00 [main] [main] [26] INFO  by.epam.task4.main.Main - text: 
+2021-11-18 11:02:00 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: []

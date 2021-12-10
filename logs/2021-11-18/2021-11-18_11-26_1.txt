@@ -1,0 +1,26 @@
+2021-11-18 11:26:03 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (Five) da.
+Bye.
+2021-11-18 11:26:03 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: )
+2021-11-18 11:26:03 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:26:03 [main] [parse] [32] INFO  epam.task4.parser.impl.SentenceParser - text:  SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d] SYMBOL [a]] WORD [ SYMBOL [d] SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]
+2021-11-18 11:26:03 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:26:03 [main] [parse] [32] INFO  epam.task4.parser.impl.SentenceParser - text:  SENTENCE [ LEXEME [ WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] ] LEXEME [ SYMBOL [.] ]]
+2021-11-18 11:26:03 [main] [main] [26] INFO  by.epam.task4.main.Main - text:  TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d] SYMBOL [a]] WORD [ SYMBOL [d] SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]
+]
+	] TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] ] LEXEME [ SYMBOL [.] ]]
+]
+	]
+2021-11-18 11:26:03 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d] SYMBOL [a]] WORD [ SYMBOL [d] SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]]
+2021-11-18 11:26:49 [main] [readText] [23] INFO  epam.task4.reader.impl.TextReaderImpl - Text: 
+Hi (Five) da.
+Bye.
+2021-11-18 11:26:49 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: )
+2021-11-18 11:26:49 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:26:49 [main] [parse] [49] INFO  epam.task4.parser.impl.WordParser - POST_PUNCTUATION_REGEX: .
+2021-11-18 11:26:49 [main] [main] [26] INFO  by.epam.task4.main.Main - text:  TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d] SYMBOL [a]] WORD [ SYMBOL [d] SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]
+]
+	] TEXT [ PARAGRAPH [ SENTENCE [ LEXEME [ WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] WORD [ SYMBOL [B] SYMBOL [y] SYMBOL [e]] ] LEXEME [ SYMBOL [.] ]]
+]
+	]
+2021-11-18 11:26:49 [main] [findSentencesWithLongWord] [53] INFO  epam.task4.service.impl.CompositeService - Sentences with the longest word: [ SENTENCE [ LEXEME [ WORD [ SYMBOL [H] SYMBOL [i]] WORD [ SYMBOL [H] SYMBOL [i]] ]] SENTENCE [ LEXEME [ SYMBOL [(] ] LEXEME [ WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] WORD [ SYMBOL [F] SYMBOL [i] SYMBOL [v] SYMBOL [e]] ] LEXEME [ SYMBOL [)] ]] SENTENCE [ LEXEME [ WORD [ SYMBOL [d] SYMBOL [a]] WORD [ SYMBOL [d] SYMBOL [a]] ] LEXEME [ SYMBOL [.] ]]]
